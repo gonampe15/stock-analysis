@@ -15,4 +15,4 @@ In order to do that, we'll be using VBA to write code that can make the data ret
 
 The major advantage of refactoring code is making the code more efficiently by taking less steps, reducing the amount of memory used and improving the logic of the code. The major disadvantage of refactoring code is that you could potentially break code that already works. 
 
-### VBA Script Refactoring Pros and Cons
+### VBA Script Refactoring
