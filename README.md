@@ -200,6 +200,9 @@ Worksheets(yearValue).Activate
 
 ### Run time Refactored Code
 
+![2017](/Resources/VBA_Challenge_2017.png)
+![2018](/Resources/VBA_Challenge_2018.png)
+
 
 ## Summary
 
