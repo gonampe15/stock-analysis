@@ -195,9 +195,11 @@ Worksheets(yearValue).Activate
 ```
 ### Run time Original Code
 
-
+![2017](/Resources/VBA_Oldcode_2017.png)
+![2018](/Resources/VBA_Oldcode_2018.png)
 
 ### Run time Refactored Code
+
 
 ## Summary
 
